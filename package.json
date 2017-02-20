@@ -1,0 +1,24 @@
+{
+  "name": "graphql-dschema",
+  "version": "0.0.1",
+  "description": "A simple wrapper around graphql-js to make grpahql types extendable.",
+  "main": "graph.js",
+  "scripts": {
+  },
+  "author": "Amir Saboury",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "graphql": "0.x"
+  },
+  "repository": "amir-s/graphql-distributed-schema",
+  "keywords": [
+    "graphql",
+    "schema",
+    "distributed"
+  ],
+  "bugs": {
+    "url": "https://github.com/amir-s/graphql-distributed-schema/issues"
+  }
+}
