@@ -1,6 +1,6 @@
 {
   "name": "graphql-dschema",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple wrapper around graphql-js to make grpahql types extendable.",
   "main": "graph.js",
   "scripts": {
